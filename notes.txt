@@ -1,0 +1,17 @@
+while i<3:
+....print("")
+
+for i in [0,1,2]
+i takes the first value in the list 
+
+or 
+
+for i in range(3) 
+range returns 0 ,1 ,2
+
+or if we are not using i in the loop then we can write _ that means its just for navigating in the loop and we dont need a variable
+
+for _ in range(3)
+
+another way of print in pyton is 
+print("new\n"* 3, end="")
