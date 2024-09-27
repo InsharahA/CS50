@@ -22,6 +22,7 @@ def main():
         if (not Flag):
             print(x," + ",y," = ", (x+y) )
         print()
+    print("Score:",score)
 
 
 
